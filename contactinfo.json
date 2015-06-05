@@ -1,0 +1,11 @@
+{  
+   "name":"Kenneth Hamilton",
+   "phoneNumber":"(612)-267-7208",
+   "emailAddress":"kennylj92@gmail.com",
+   "address":{  
+      "address":"4174 Rahn Rd. Apt #3",
+      "city":"Eagan",
+      "state":"Minnesota",
+      "zip":"55122"
+   }
+}

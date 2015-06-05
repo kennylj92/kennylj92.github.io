@@ -1,0 +1,49 @@
+﻿<!--THIS IS THE NAVIGATION BAR SECTION-->
+<nav class="navbar navbar-inverse">
+
+	<div class="container">
+
+		<div class="navbar-header">
+
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+
+				<span class="sr-only">Toggle navigation</span>
+
+				<span class="icon-bar"></span>
+
+				<span class="icon-bar"></span>
+
+				<span class="icon-bar"></span>
+
+			</button>
+
+			<a class="navbar-brand" href="#about">Kenneth Hamilton</a>
+
+		</div>
+
+		<!--PAGES FOR NAVBAR-->
+		<div class="navbar-collapse collapse">
+
+			<ul class="nav navbar-nav">
+
+				<li ng-class="{active: workInfo.isActive('/about')}"><a href="#about"}><i class="glyphicon glyphicon-user glyphicon glyphicon-white"></i>&nbsp;&nbsp;&nbsp;About</a></li>
+
+				<li ng-class="{active: workInfo.isActive('/jobhistory')}"><a href="#jobhistory"><i class="glyphicon glyphicon-briefcase"></i>&nbsp;&nbsp;&nbsp;Job History</a></li>
+
+				<li ng-class="{active: workInfo.isActive('/contact')}"><a href="#contact"><i class="glyphicon glyphicon-envelope"></i>&nbsp;&nbsp;&nbsp;Contact</a></li>
+
+			</ul>
+
+			<ul class="nav navbar-nav navbar-right">
+
+				<li><a href="ResumeKennethHamilton.docx"><i class="glyphicon glyphicon-download"></i>&nbsp;&nbsp;Download Resume</a></li>
+
+			</ul>
+
+
+		</div><!--/.nav-collapse -->
+
+
+	</div>
+
+</nav>

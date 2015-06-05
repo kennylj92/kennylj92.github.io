@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Exceptional verbal, written and interpersonal skills",
+        "Detail oriented, highly motivated, and a strong initiative",
+        "Strong ability to multitask ",
+        "Ability to work independently and as part of a team",
+        "Strive for continued excellence for furthering my education"
+    ],
+    "jobs": [
+        {
+            "companyName": "S.G.O. Rooofing",
+            "wage": 17.63,
+            "timeFrame": {
+                "startDate": "10/01/2014",
+                "endDate": "05/01/2015"
+            },
+            "companyDescription": "S.G.O. Roofing is a roofing company for commercial properties that specializes in water proofing flat top commercial buildings.",
+            "jobDescription": "Currently I am working as a roofer on a team applying rubber laminate to water proof commercial buildings. As a roofer one of my responsibilites is to show up early from site to site. I work with a foreman and independantly to complete the job accordingly to customer reqirements."
+        },
+        {
+            "companyName": "Tak Communications",
+            "wage": 12.00,
+            "timeFrame": {
+                "startDate": "09/01/2013",
+                "endDate": "08/01/2014"
+            },
+            "companyDescription": "Tak Communications is a sub-contractor that installs cable internet for Chater Communications. ",
+            "jobDescription": "I worked as a cable technician where i mostly worked independantly installing cable TV and internet in customers homes, occasionally some commercial installs. I also troubleshooted and repaired systems that were not working properly. Part of my job duties was to communicate and inform customer. I documneted and kept track of each step at every jobsite, and I always retraced my steps to ensure proper job requirements and customer satisfaction."
+        },
+        {
+            "companyName": "Mystic Lake Casino & Hotel",
+            "wage": 11.00,
+            "timeFrame": {
+                "startDate": "09/01/2010",
+                "endDate": "07/01/2013"
+            },
+            "companyDescription": "Mystic Lake is the second largest Native-American Gaming enterprise in Minnesota",
+            "jobDescription": "Mystic Lake is a team based business that moves you around to best fit the structure of the days goals. My role was primarily an Asssistant, which involved helping the servers get out on the floor faster and keep the self service stations stocked and clean. When needed I would serve the customers with drinks and or snacks. Occassionally I would help ice porting team distribute ice from station to station."
+        },
+        {
+            "companyName": "Emma Krumbees Bakery & Restaurant",
+            "wage": 8.00,
+            "timeFrame": {
+                "startDate": "02/01/2009",
+                "endDate": "09/01/2010"
+            },
+            "companyDescription": "Emma Krumbees is a small town family oriented restaurant.",
+            "jobDescription": "My main role at Emma Krumbees was Dishwashing. I would occcasionally help with serving and subbing in as a preperation cook in the mornings. "
+        }
+    ]
+}

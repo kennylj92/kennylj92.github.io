@@ -1,0 +1,39 @@
+<!--JOB HISTORY SECTION-->
+<div class="text-left">
+
+	<div class="row">
+
+		<div>
+
+			<h2>Professional Summary</h2>
+
+			<hr/>
+
+			<ul>
+
+				<li class="liPadding" ng-repeat="skill in jobInfo.workDetails.skills">{{skill}}</li>
+
+			</ul>
+
+		</div>
+
+		<br/>
+
+		<br/>
+
+		<!--PANEL FOR JOBS-->
+
+		<h2>Work Experience</h2>
+
+		<hr />
+		
+		<div ng-repeat="job in jobInfo.workDetails.jobs" class="row">
+
+			<job-details></job-details>
+
+		</div>
+
+	</div>
+
+</div>
+
